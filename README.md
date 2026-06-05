@@ -36,8 +36,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 3. **Launch the Demo:**
-   ```bash
-python app.py
+   python app.py
 The Gradio interface will launch in your browser automatically.
 
 Notes
