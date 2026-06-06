@@ -45,4 +45,4 @@ The Gradio interface will launch in your browser automatically.
 - **Training**: Use `model.ipynb` to train the CNN model. Ensure your dataset is structured correctly before running the training notebook.
 - **Path Configuration**: If you encounter `FileNotFoundError`, please double-check the paths. Make sure the paths to your dataset and weight files match your local machine's directory structure.
 
-Created by Ngo Quang Tao - Thang Long University's Deep Learning Course
+Created by Ngo Quang Tao
