@@ -11,7 +11,7 @@ This project provides a complete workflow for training and deploying a Hanzi rec
 ## Dataset
 The dataset used for training this model was sourced from [Handwritten Chinese Character (Hanzi) Datasets].
 - You can access the raw data here: [Kaggle - Hanzi Dataset](https://www.kaggle.com/datasets/pascalbliem/handwritten-chinese-character-hanzi-datasets/data)
-- The data is processed using `setup_data.py` to convert it into HDF5 format for PyTorch compatibility.
+- The data is processed using `setup_data.py` to extract and convert it into HDF5 format for PyTorch compatibility.
 
 ## Project Structure
 - `setup_data.py`: Handles data preprocessing and conversion to HDF5 format.
